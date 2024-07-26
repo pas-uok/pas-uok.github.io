@@ -1,6 +1,6 @@
 # About the scholarship
 
-The <em>Physics Alumni Scholarship</em> (formerly known as the Hunarmand Scholarship Program) was created with the sole purpose of providing financial assistance to students currently enrolled in the Department of Physics at the University of Karachi. The scholarship is managed under the supervision of Mr. Waqar Ahmed, a lecturer. The program has been running since Fall 2021. A total of **1.42 million PKR** has been raised for this scholarship, supporting **89 students** so far.
+The <em>Physics Alumni Scholarship</em> (formerly known as the Hunarmand Scholarship Program) is created with the sole purpose of providing financial assistance to students currently enrolled in the Department of Physics at the University of Karachi. The scholarship is managed under the supervision of Mr. Waqar Ahmed, a lecturer. The program has been running since Fall 2021. A total of **1.42 million PKR** has been raised for this scholarship, supporting **89 students** so far.
 
 
 |              | Amount Given (PKR) | No of Recipients |
