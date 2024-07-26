@@ -1,6 +1,6 @@
 | Name                        | Year of Study                    | Amount Given |
 |-----------------------------|----------------------------------|--------------|
-| A***** K***                 | M.Sc. - Final year               | 19500        |
+| A\*\*\*\*\* K\*\*\*                 | M.Sc. - Final year               | 19500        |
 | Bibi Zainab                 | B.Sc. (Hons) - 3rd year          | 25145        |
 | Dua Khurram Khan            | B.Sc. (Hons) - 3rd year          | 19500        |
 | I\*\*\* M*\*\*\*\*\*\*\*              | M.Sc. - Final year               | 18000        |
