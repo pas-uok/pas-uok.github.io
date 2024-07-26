@@ -30,14 +30,15 @@ theme:
     - navigation.indexes
     - navigation.top
   palette:
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to dark mode
     - scheme: default
       toggle:
         icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
         name: Switch to light mode
+
 
 
 
@@ -45,20 +46,7 @@ plugins:
   - search
   - markdownextradata
   - autorefs
-  - mkdocstrings:
-      handlers:
-        python:
-          options:
-            paths: [salt]
-            line_length: 100
-            show_root_heading: true
-            show_root_toc_entry: true
-            show_root_full_path: true
-            docstring_style: numpy
-            merge_init_into_class: true
-            annotations_path: full
-            show_signature: false
-            members: false
+
 
 markdown_extensions:
   - admonition
