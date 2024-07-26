@@ -1,6 +1,8 @@
 site_name: Physics Alumni Scholarship
 site_description: An Alumni based scholarship to help needy students
 site_url: https://pas-uok.github.io
+site_author: Hamza Hanif
+
 
 repo_name: Github
 repo_url: https://github.com/pas-uok/pas-uok.github.io
@@ -8,14 +10,15 @@ edit_uri: tree/main/site
 
 nav:
   - Introduction: "index.md"
+  - About us: "team.md"
   # - Setup: setup.md
-  - Recipient:
-      - recipient/fall2021.md
-      - recipient/spring2022.md
-      - recipient/fall2022.md
-      - recipient/spring2023.md
-      - recipient/fall2023.md
-      - recipient/spring2024.md
+  - Recipients:
+      - Fall 2021: recipient/fall2021.md
+      - Spring 2022: recipient/spring2022.md
+      - Fall 2022: recipient/fall2022.md
+      - Spring 2023: recipient/spring2023.md
+      - Fall 2023: recipient/fall2023.md
+      - Spring 2024: recipient/spring2024.md
 
 theme:
   name: material
@@ -27,22 +30,20 @@ theme:
     - navigation.indexes
     - navigation.top
   palette:
-    - scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
     - scheme: slate
       toggle:
         icon: material/brightness-4
+        name: Switch to dark mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
         name: Switch to light mode
+
 
 
 plugins:
   - search
   - markdownextradata
-  - git-revision-date-localized:
-      enable_creation_date: true
-      type: date
   - autorefs
   - mkdocstrings:
       handlers:
@@ -80,4 +81,3 @@ markdown_extensions:
 extra_javascript:
   - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"
 
-copyright: Copyright &copy; 2022 - 2023 CERN for the benefit of the ATLAS collaboration
