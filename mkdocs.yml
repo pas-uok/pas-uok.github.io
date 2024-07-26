@@ -1,6 +1,22 @@
 site_name: Physics Alumni Scholarship
 site_description: An Alumni based scholarship to help needy students
 site_url: https://pas-uok.github.io
+
+repo_name: Github
+repo_url: https://github.com/pas-uok/pas-uok.github.io
+edit_uri: tree/main/site
+
+nav:
+  - Introduction: "index.md"
+  # - Setup: setup.md
+  - Recipient:
+      - recipient/fall2021.md
+      - recipient/spring2022.md
+      - recipient/fall2022.md
+      - recipient/spring2023.md
+      - recipient/fall2023.md
+      - recipient/spring2024.md
+
 theme:
   name: material
   icon:
