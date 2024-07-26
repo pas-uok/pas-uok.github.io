@@ -1,4 +1,67 @@
-site_name: Physics Alumni Scholarship - Department of Physics, University of Karachi
+site_name: Physics Alumni Scholarship
+site_description: An Alumni based scholarship to help needy students
 site_url: https://pas-uok.github.io
 theme:
   name: material
+  icon:
+    logo: material/atom
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.top
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+
+plugins:
+  - search
+  - markdownextradata
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+  - autorefs
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            paths: [salt]
+            line_length: 100
+            show_root_heading: true
+            show_root_toc_entry: true
+            show_root_full_path: true
+            docstring_style: numpy
+            merge_init_into_class: true
+            annotations_path: full
+            show_signature: false
+            members: false
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - pymdownx.arithmatex
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.smartsymbols
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: "!!python/name:mermaid2.fence_mermaid"
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: "#"
+
+extra_javascript:
+  - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"
+
+copyright: Copyright &copy; 2022 - 2023 CERN for the benefit of the ATLAS collaboration
