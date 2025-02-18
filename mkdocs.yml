@@ -19,6 +19,8 @@ nav:
       - Spring 2023: recipient/spring2023.md
       - Fall 2023: recipient/fall2023.md
       - Spring 2024: recipient/spring2024.md
+      - Fall 2024: recipient/fall2024.md
+
 
 theme:
   name: material
