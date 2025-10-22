@@ -12,7 +12,8 @@ The <em>Physics Alumni Scholarship</em> (formerly known as the Hunarmand Scholar
 | Fall 2023    | 231,000           | 15|
 | Spring 2024  | 246,645           | 14|
 | Fall 2024  | 303000          | 18|
-| **Total**    | **1.72 Million** | **107**|
+| Spring 2025  | 349652          | 15|
+| **Total**    | **2.07 Million** | **122**|
 
 
 
