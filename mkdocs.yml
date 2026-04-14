@@ -2,11 +2,10 @@ site_name: Physics Alumni Scholarship
 site_description: An Alumni based scholarship to help needy students
 site_url: https://pas-uok.github.io
 site_author: Hamza Hanif
-site_dir: pas
 
 repo_name: Github
 repo_url: https://github.com/pas-uok/pas-uok.github.io
-edit_uri: tree/main/site
+edit_uri: tree/main/docs
 
 nav:
   - Introduction: "index.md"
