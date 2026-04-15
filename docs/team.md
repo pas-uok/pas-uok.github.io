@@ -11,4 +11,4 @@ Current  members are:
 - Waqar Ahmad  (Lecture, University of Karachi)
 - Tahira Nasir
 - Burhanuddin Fakhruddin
-- Shafique Ur Rehman
+- Shafiq Ur Rehman
