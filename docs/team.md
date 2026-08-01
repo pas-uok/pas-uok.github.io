@@ -1,6 +1,6 @@
 # About the scholarship
 
-This scholrship program was co-funded by the alumni of Department of Physics, University of Karachi  Hamza Hanif, Muhammad Bilal Khan and Rimsha Sheikh.
+This scholarship program was co-funded by the alumni of Department of Physics, University of Karachi  Hamza Hanif, Muhammad Bilal Khan and Rimsha Sheikh.
 
 
 Current  members are:
