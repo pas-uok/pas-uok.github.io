@@ -5,10 +5,13 @@ This scholrship program was co-funded by the alumni of Department of Physics, Un
 
 Current  members are:
 
-- Muhammad Bilal Khan (PhD Candidate, University of Delaware)
-- Hamza Hanif (PhD Candidate, Simon Fraser University)
-- Saqib Shahzad  (PhD Candidate, University of Central Florida)
-- Waqar Ahmad  (Lecture, University of Karachi)
+- Muhammad Bilal Khan 
+- Hamza Hanif 
+- Saqib Shahzad  
 - Tahira Nasir
 - Burhanuddin Fakhruddin
+- Muhammad Hassan Sheikh
 - Shafiq Ur Rehman
+- Tooba Baig
+- Muhammad Maaz Adnan
+- Shahzaib Abbas
